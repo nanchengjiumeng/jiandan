@@ -1,0 +1,2 @@
+# jiandan
+typescript write Jiandangua!
