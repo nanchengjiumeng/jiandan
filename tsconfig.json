@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "rootDir": "src",
+    "outDir": "dist",
+    "typeRoots": [
+      "types"
+    ],
+    "target": "esnext",
+    "lib": [
+      "esnext"
+    ],
+    "moduleResolution": "node",
+    "strict": true
+  },
+  "tstl": {
+    "luaTarget": "JIT",
+    "tstlVerbose": true,
+    "noImplicitSelf": true,
+    // "luaBundle": "bundle.lua",
+    // "luaBundleEntry": "./src/index.ts"
+  }
+}
